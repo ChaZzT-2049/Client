@@ -1,0 +1,215 @@
+body { 
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Calibri', 'Trebuchet MS', sans-serif;
+}
+.containert {
+    width: 100%;
+}
+.containert header {
+    background: rgb(39, 90, 230);
+    width: 1366px;
+    height: 90px;
+    text-align: left;
+    background-size: 100% auto;
+}
+.containert h1 {
+    padding-left: 10px;
+    margin: 0px;
+    color: rgb(255, 254, 254);
+    display: inline-block;
+    font-weight: bold;
+    font-size: 40px;
+}
+.containert h3 {
+    padding-left: 10px;
+    margin: 0px;
+    color: rgb(255, 254, 254);
+    display: inline-block;
+    font-weight: bold;
+    font-size: 17px;
+}
+.boxes {
+    justify-content: space-between;
+    display: flex;  
+}
+.userbtn {
+    background: rgb(39, 90, 230);
+    width: 180px;
+    height: 50px;
+    margin-top: 3px;
+    margin-left: 3px;
+    text-align: left;
+    background-size: 100% auto;
+}
+.userbtn h2 {
+    padding-top: 5px;
+    padding-left: 10px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.mapatitle {
+    background-color: rgb(86, 182, 226);
+    width: 1180px;
+    height: 50px;
+    margin-top: 3px;
+    margin-left: 1px;
+    text-align: left;
+    background-size: 100% auto;
+}
+.mapatitle h2{
+padding: 0px;
+margin-top: 5px;
+color: black;
+text-align: center;
+}
+.menubtn {
+    background: rgb(39, 90, 230);
+    width: 180px;
+    height: 30px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.menubtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.requestbtn {
+    background: rgb(86, 182, 226);
+    width: 180px;
+    height: 30px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.requestbtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.avaliablebtn {
+    background: rgb(86, 182, 226);
+    width: 180px;
+    height: 55px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.avaliablebtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.reservedbtn {
+    background: rgb(86, 182, 226);
+    width: 180px;
+    height: 55px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.reservedbtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.occupedbtn {
+    background: rgb(86, 182, 226);
+    width: 180px;
+    height: 55px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.occupedbtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.outofsbtn {
+    background: rgb(86, 182, 226);
+    width: 180px;
+    height: 55px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.outofsbtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.evroutebtn {
+    background: rgb(86, 182, 226);
+    width: 180px;
+    height: 30px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.evroutebtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.reportbtn {
+    background: rgb(86, 182, 226);
+    width: 180px;
+    height: 30px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.reportbtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.callsupbtn {
+    background: rgb(86, 182, 226);
+    width: 180px;
+    height: 30px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.callsupbtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.configbtn {
+    background: rgb(86, 182, 226);
+    width: 180px;
+    height: 30px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.configbtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+.fqbtn {
+    background: rgb(86, 182, 226);
+    width: 180px;
+    height: 55px;
+    margin-left: 3px;
+    text-align: center;
+    background-size: 100% auto;
+}
+.fqbtn h3 {
+    padding-top: 3px;
+    margin: 5px;
+    color: rgb(255, 254, 254);
+}
+#map {
+    width: 1170px;
+    height: 501px;
+    position: fixed;
+    left: 190px;
+    top: 150px;
+}
